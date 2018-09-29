@@ -1,7 +1,7 @@
 # IFSComputation
 MATH 306 Final Project with Jian Lu
 
-Abstract
+**Abstract
 Our project is a computational project as a supplementary application to Terafractal. Throughout the process of using
 the Terafractal application, we are able to see some very interesting fractals, such as the fern, the conch shell, or
 the Serpinski triangle; however we were unable to see the birth of these fractals. We consider our application as a
