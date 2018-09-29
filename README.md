@@ -1,5 +1,5 @@
 # IFSComputation
-MATH 306 Final Project with Jian Lu
+Project with Jian Lu
 
 ## Abstract
 Our project is a computational project as a supplementary application to Terafractal. Throughout the process of using
