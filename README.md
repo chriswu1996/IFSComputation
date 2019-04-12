@@ -1,6 +1,8 @@
 # IFSComputation
 Project with Jian Lu
 
+You can run the app on https://yuxin-wu.shinyapps.io/shiny/
+
 ## Abstract
 Our project is a computational project as a supplementary application to Terafractal. Throughout the process of using
 the Terafractal application, we are able to see some very interesting fractals, such as the fern, the conch shell, or
